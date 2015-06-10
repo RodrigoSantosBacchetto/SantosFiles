@@ -1,0 +1,3 @@
+
+JSON OBJECT
+{"config": ["ISLO","PSLO","COURSEGROUP","COURSE"]}
