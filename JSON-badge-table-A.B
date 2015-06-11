@@ -9,7 +9,7 @@ metodos del student module:
 
 
 
-getBadgeScorecardSettings ()
+setBadgeScorecardSettings ()
 Entrada:   JSON OBJECT :
 {
   "scorecardType" : 'Progress' | 'Completion',
