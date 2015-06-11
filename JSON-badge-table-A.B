@@ -13,13 +13,13 @@ setBadgeScorecardSettings ()
 Entrada:   JSON OBJECT :
 {
   "scorecardType" : 'Progress' | 'Completion',
-  "types": ["ISLO","PSLO","COURSEGROUP","COURSE"]}
+  "types": ["ISLO","PSLO","COURSE_GROUP","COURSE"]}
 }
 
 getBadgeScorecardData (student)
 Salida: JSON OBJECT :
 {
-  "types": ["ISLO","PSLO","COURSEGROUP","COURSE"],
+  "types": ["ISLO","PSLO","COURSE_GROUP","COURSE"],
   "ISLO" : [
     badgeAndAwards,
     badgeAndAwards,
