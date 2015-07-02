@@ -1,7 +1,7 @@
 
 //METHOD USED TO SAVE THE GOAL BENCHMARK RUBRIC
 
-respondMessage saveNewBechmarkRubric(JSONObject)
+respondMessage saveNewBenchmarkRubric(JSONObject)
 
 //JSONObject
 
@@ -18,7 +18,7 @@ newBenchmarkRubric = {
                       
 //METHOD USED TO EDIT THE GOAL BENCHMARK RUBRIC
 
-respondMessage editBechmarkRubric(JSONObject)
+respondMessage editBenchmarkRubric(JSONObject)
 
 //JSONObject
 
@@ -36,7 +36,7 @@ benchmarkRubric = {
 
 //METHOD USED TO REMOVE AN EXISTENT GOAL BENCHMARK RUBRIC
 
-respondMessage removeBechmarkRubric(JSONObject)
+respondMessage removeBenchmarkRubric(JSONObject)
 
 //JSONObject
 
