@@ -5,6 +5,7 @@ JSON =
   {
     "id": 1,
     "name" : "Portfolio for my career as an professional dota player",
+    "description":"description",
     "style" : { ... },
     "assetCount" : 4,
     "lastModified": XXX,
