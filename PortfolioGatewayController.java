@@ -19,7 +19,7 @@ return  "sharedpeople" =     [
         
 setPortfolioSharedPeople(portfolioId,List<Integer>(una lista de todos los userId),"appuser"(un String))
 
-evaluatorsForStudentEnrrolled()
+evaluatorsForStudentEnrolled()
 return [
           {
           "userId":1
