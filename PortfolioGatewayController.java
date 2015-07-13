@@ -2,20 +2,20 @@
 
 getPortfolioSharedPeople(portfolioId)
 
-return  [
-          {
-          "userId":1
-          "name":"pepito"
-          "apellido":"pepe"
-          },
-          {
-          "userId":2
-          "name":"pepito2"
-          "apellido":"pepe2"
-          },
-          {},
-          ....
-        ]
+return  "sharedpeople" =     [
+                              {
+                              "userId":1
+                              "lastName":"pepito"
+                              "firstName":"pepe"
+                              },
+                              {
+                              "userId":2
+                              "lastName":"pepito2"
+                              "firstName":"pepe2"
+                              },
+                              {},
+                              ....
+                            ]
         
 setPortfolioSharedPeople(portfolioId,List<Integer>(una lista de todos los userId),"appuser"(un String))
 
@@ -23,13 +23,13 @@ evaluatorsForStudentEnrrolled()
 return [
           {
           "userId":1
-          "name":"pepito"
-          "apellido":"pepe"
+          "lastName":"pepito"
+          "firstName":"pepe"
           },
           {
           "userId":2
-          "name":"pepito2"
-          "apellido":"pepe2"
+          "lastName":"pepito2"
+          "firstName":"pepe2"
           },
           {},
           ....
@@ -39,13 +39,13 @@ evaluatorsThatMatchString("String"(alguna cadena con la que se busca concordanci
 return [
           {
           "userId":1
-          "name":"pepito"
-          "apellido":"pepe"
+          "lastName":"pepito"
+          "firstName":"pepe"
           },
           {
           "userId":2
-          "name":"pepito2"
-          "apellido":"pepe2"
+          "lastName":"pepito2"
+          "firstName":"pepe2"
           },
           {},
           ....
