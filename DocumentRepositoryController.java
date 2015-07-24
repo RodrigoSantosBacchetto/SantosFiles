@@ -44,4 +44,13 @@ return
                "errorMsg","Error trying to delete the folder or file"   
           }        
           
-      
+/**
+* This method rename a folder 
+*/
+renameFolder("folderId"(Target folder),"folderName"(New name))
+return 
+          if(canRename{
+              "doneMsg", "Renamed successfully"
+          }else{
+               "errorMsg","Error trying to rename the folder"   
+          }   
