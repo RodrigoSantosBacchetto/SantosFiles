@@ -27,3 +27,7 @@ to save and load, we are going to used this structure:
                         }
                       ]
   }
+  
+(retorna la estructura mostrada antes) getLTIAssessmentBehaviorSettings();
+
+void setLTIAssessmentBehaviorSettings((tenes que darle la estructura mostrada antes));
