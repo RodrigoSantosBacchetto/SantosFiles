@@ -1,0 +1,29 @@
+
+to save and load, we are going to used this structure:
+
+  {
+  "courseType":[
+                  {
+                  "id":1
+                  "name":pepito1
+                  "val":false
+                  },
+                  {
+                  "id":2
+                  "name":pepito2
+                  "val":true
+                  }
+                ],
+  "sectionAttribute":[
+                       {
+                        "id":1
+                        "name":pepito1
+                        "val":false
+                        },
+                        {
+                        "id":2
+                        "name":pepito2
+                        "val":true
+                        }
+                      ]
+  }
