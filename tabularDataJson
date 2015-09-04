@@ -18,8 +18,8 @@ tabularData = [
               ]
 
 columns = [
-          {data:column1},
-          {data:column2},
-          {data:column3}
+          {data:column1.value},
+          {data:column2.value},
+          {data:column3.value}
           ]
           
