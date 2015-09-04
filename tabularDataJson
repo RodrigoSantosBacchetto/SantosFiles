@@ -1,0 +1,25 @@
+
+tabularData = [
+              {
+              column1: {type:"category" , value:"category of your sister"},
+              column2: {type:"class" , value:"class of your sister"},
+              column3: {type:"" , value:"your sister"},
+              },
+              {
+              column1: {type:"" , value:"your sister"},
+              column2: {type:"" , value:"your sister"},
+              column3: {type:"" , value:"your sister"},
+              },
+              {
+              column1: {type:"" , value:"your sister"},
+              column2: {type:"" , value:"your sister"},
+              column3: {type:"" , value:"your sister"},
+              }
+              ]
+
+columns = [
+          {data:column1},
+          {data:column2},
+          {data:column3}
+          ]
+          
